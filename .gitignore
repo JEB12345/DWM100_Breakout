@@ -1,3 +1,6 @@
 # backup files used to restore kicad from crashes
 *.bak
 *.kicad_pcb-bak
+
+# No need to archive zip files
+*.zip
