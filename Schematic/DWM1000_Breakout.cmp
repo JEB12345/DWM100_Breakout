@@ -1,0 +1,129 @@
+Cmp-Mod V01 Created by Cvpcb (after 2015-may-25 BZR unknown)-product   date = Thu 04 Jun 2015 10:53:52 AM PDT
+
+BeginCmp
+TimeStamp = /557087F8;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55708883;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /557088AF;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /557088D9;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55708F0E;
+Reference = JP1;
+ValeurCmp = Jumper_NO_Small;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55708F7B;
+Reference = JP2;
+ValeurCmp = Jumper_NO_Small;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55707CEC;
+Reference = P1;
+ValeurCmp = CONN_01X10;
+IdModule  = non_std_pinheader:xbee_2mm_pinheader_1x10;
+EndCmp
+
+BeginCmp
+TimeStamp = /55707D79;
+Reference = P2;
+ValeurCmp = CONN_01X10;
+IdModule  = non_std_pinheader:xbee_2mm_pinheader_1x10;
+EndCmp
+
+BeginCmp
+TimeStamp = /55708FC3;
+Reference = R1;
+ValeurCmp = 1K;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /557090D9;
+Reference = R2;
+ValeurCmp = 1K;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55708745;
+Reference = R3;
+ValeurCmp = 470;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55708793;
+Reference = R4;
+ValeurCmp = 470;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /557087B7;
+Reference = R5;
+ValeurCmp = 470;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /557087D9;
+Reference = R6;
+ValeurCmp = 470;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /557093B2;
+Reference = R7;
+ValeurCmp = 0;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55709483;
+Reference = R8;
+ValeurCmp = 0;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /557094EC;
+Reference = R9;
+ValeurCmp = 0;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55707F83;
+Reference = U1;
+ValeurCmp = DWM1000;
+IdModule  = decaWave:dmw1000;
+EndCmp
+
+EndListe
